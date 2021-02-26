@@ -15,6 +15,10 @@ body {
   letter-spacing: 0.03em;
 }
 
+.link {
+  text-decoration-line: none;
+}
+
 /* =========== HEADER =========== */
 
 .logo {
@@ -197,4 +201,8 @@ body {
   line-height: 1.87;
 
   color: var(--body-color);
+}
+
+.portfolio-card {
+  text-decoration-line: none;
 }
