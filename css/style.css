@@ -22,6 +22,7 @@ body {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
+  text-decoration: none;
 
   color: var(--headlines-color);
 }
@@ -39,6 +40,7 @@ body {
   font-size: 14px;
   line-height: 1.06;
   letter-spacing: 0.02em;
+  text-decoration: none;
 
   color: var(--headlines-color);
 }
@@ -53,6 +55,7 @@ body {
   font-size: 14px;
   line-height: 1.06;
   letter-spacing: 0.02em;
+  text-decoration: none;
 
   color: var(--contact-color);
 }
@@ -73,6 +76,7 @@ body {
 
   text-align: center;
   letter-spacing: 0.06em;
+  text-transform: uppercase;
 
   /* color: #ffffff; */
 }
@@ -143,6 +147,7 @@ body {
   font-style: normal;
   font-size: 14px;
   line-height: 1.71;
+  text-decoration: none;
 
   /* color: var(--primary-white-color); */
 }
@@ -151,6 +156,7 @@ body {
   font-style: normal;
   font-size: 14px;
   line-height: 1.71;
+  text-decoration: none;
 
   /* color: rgba(255, 255, 255, 0.6); */
 }
